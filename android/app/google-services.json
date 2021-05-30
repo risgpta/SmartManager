@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906318190879",
+    "project_id": "smartmanager-bf382",
+    "storage_bucket": "smartmanager-bf382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906318190879:android:26a059a39e0d9b698f382a",
+        "android_client_info": {
+          "package_name": "com.smartmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906318190879-ogi1gh4i9e7h5qsmer6ckcjeae3k5kqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19prkOfAXogvlnoLzpHXcoN28wf8jbq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906318190879-ogi1gh4i9e7h5qsmer6ckcjeae3k5kqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
